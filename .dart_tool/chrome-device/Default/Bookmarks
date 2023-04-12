@@ -1,0 +1,79 @@
+{
+   "checksum": "e6473d94f28d80e3ea23e935e1e2d39f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13271629759619765",
+            "date_last_used": "0",
+            "guid": "d2de9b9f-f999-421b-8525-1c7ea8c090ee",
+            "id": "6",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "import_fre",
+            "type": "url",
+            "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=7684&destination=booking&refclickid=webslice1819"
+         } ],
+         "date_added": "13325767288864052",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favourites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13271629759615704",
+               "date_last_used": "0",
+               "guid": "96347944-2f57-4b0c-971d-6c932065160b",
+               "id": "8",
+               "name": "Booking.com",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://secure.rezserver.com/sdk/v1/LinkFwd?refid=7684&destination=booking&refclickid=iefav1819"
+            }, {
+               "date_added": "13271629759696384",
+               "date_last_used": "0",
+               "guid": "6e681b27-467b-48b5-966f-12eb44e62241",
+               "id": "9",
+               "name": "HP Store",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://js.redirect.hp.com/jumpstation?bd=all&c=none&locale=nl_nl&pf=cnnb&s=stemea_consumer_ie_nb&tp=iefavs"
+            } ],
+            "date_added": "13325767291926794",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "44722f79-0eec-4b25-9579-a594b05be5b3",
+            "id": "7",
+            "name": "HP",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13325767288864056",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favourites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13325767288864057",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favourites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
